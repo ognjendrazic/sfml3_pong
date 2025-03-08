@@ -23,7 +23,7 @@ A simple Pong game implementation using **SFML 3** in **C++** with player contro
    ```
 2. Navigate to the project directory:
    ```sh
-   cd pong-game
+   cd sfml3_pong
    ```
 3. Install **SFML 3**:
    - On Windows:
@@ -40,7 +40,7 @@ A simple Pong game implementation using **SFML 3** in **C++** with player contro
    ```
 5. Run the game:
    ```sh
-   ./pong
+   ./sfml3_pong
    ```
 
 ## Controls
