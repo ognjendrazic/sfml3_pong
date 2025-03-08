@@ -19,7 +19,7 @@ A simple Pong game implementation using **SFML 3** in **C++** with player contro
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/pong-game.git
+   git clone https://github.com/ognjendrazic/sfml3_pong.git
    ```
 2. Navigate to the project directory:
    ```sh
